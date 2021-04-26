@@ -8,7 +8,7 @@ Durante questo processo, i ricordi possono diventare più forti, ma anche vari d
 
 *Riferimenti*:
 
-- [Misattribution of memory]: si riferisce alla capacità di ricordare correttamente le informazioni, ma sbagliando la fonte di tali informazioni;
+- [Misattribution of memory](https://en.wikipedia.org/wiki/Misattribution_of_memory): si riferisce alla capacità di ricordare correttamente le informazioni, ma sbagliando la fonte di tali informazioni;
 - [Source confusion]: è un attributo che si vede nei racconti di persone diverse dello stesso evento dopo aver sentito parlare della situazione;
 - [Cryptomnesia]: si verifica quando un ricordo dimenticato ritorna senza che il soggetto lo riconosca come tale, che lo ritiene qualcosa di nuovo e originale;
 - [False memory]: è un fenomeno psicologico in cui una persona ricorda qualcosa che non è accaduto o che è accaduto in modo diverso da come è realmente accaduto;
