@@ -8,7 +8,7 @@ Questa è la semplice regola seguita dal nostro cervello, la cui mancanza compor
 
 *Riferimenti:*
 
-- [Availability heuristic](https://en.wikipedia.org/wiki/Availability\_heuristic): è una scorciatoia mentale che si basa su esempi immediati che vengono in mente a una data persona quando si valuta un argomento, un concetto, un metodo o una decisione specifici;
+- [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): è una scorciatoia mentale che si basa su esempi immediati che vengono in mente a una data persona quando si valuta un argomento, un concetto, un metodo o una decisione specifici;
 - [Attentional bias](https://en.wikipedia.org/wiki/Attentional\_bias): si riferisce al modo in cui la percezione di una persona è influenzata da fattori selettivi nella sua attenzione;
 - [Illusory truth effect](https://en.wikipedia.org/wiki/Illusory\_truth\_effect): è la tendenza a credere che le informazioni false siano corrette dopo che ci vengono più volte ripetute;
 - [Mere exposure effect](https://en.wikipedia.org/wiki/Mere-exposure\_effect): è un fenomeno psicologico per cui le persone tendono a sviluppare una preferenza per qualcosa solo perché ne hanno familiarità;
@@ -64,7 +64,6 @@ Questo ha implicazioni enormi. Come corollario tendiamo a filtrare ed ignorare s
 - [Subjective validation](https://en.wikipedia.org/wiki/Subjective\_validation):  bias in base al quale una persona considererà corretta un'affermazione o un'altra informazione se questa ha un significato personale per la persona stessa;
 - [Continued influence effect](https://en.wikipedia.org/wiki/Confirmation\_bias#continued\_influence\_effect): si riferisce al fatto che una convinzione falsa (o una menzogna) continuerà a persistere nel nostro pensiero;
 - [Semmelweis reflex](https://en.wikipedia.org/wiki/Semmelweis\_reflex): si riferisce alla tendenza a rifiutare nuove prove o nuove conoscenze perché contraddice norme, credenze o paradigmi stabiliti;
-- **[*Bucket error*]**
 - [Law of narrative gravity](https://www.wired.com/2017/03/the-invisible-force-that-warps-what-you-read-in-the-news/?source=linkShare-5142451174a3-1488822120): presuppone che il pubblico e la stampa siano attratti dalla narrazione, e quanto più una narrazione è accettata (o massiccia), tanto più attrae e modella la percezione dei fatti.
 
 ## Tendiamo a notare gli errori ed i difetti negli altri molto più facilmente di quanto li rileviamo in noi stessi.
