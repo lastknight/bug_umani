@@ -46,7 +46,7 @@ La versione dell'economista comportamentale della prima legge del moto di Newton
 
 *Riferimenti*:
 
-- [Sunk cost fallacy]: errore per cui le persone continuano un comportamento o uno sforzo come risultato di risorse precedentemente investite. E' la convinzione per cui un investimento giustifica sforzi aggiuntivi;
+- [Sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect): errore per cui le persone continuano un comportamento o uno sforzo come risultato di risorse precedentemente investite. E' la convinzione per cui un investimento giustifica sforzi aggiuntivi;
 - [Irrational escalation]: situazione in cui le persone possono prendere decisioni irrazionali basate su decisioni razionali del passato o per giustificare azioni già intraprese;
 - [Escalation of commitment]: è un modello di comportamento in cui un individuo (o un gruppo) che si trova ad affrontare risultati sempre più negativi derivanti da una decisione, un'azione o un investimento continua comunque il comportamento invece di alterarne il corso. La persona mantiene comportamenti irrazionali, ma in linea con le decisioni e le azioni precedenti;
 - [Loss aversion]: si riferisce alla tendenza delle persone al preferire di evitare le perdite all'acquisire guadagni equivalenti: è meglio non perdere 5 dollari che trovare 5 dollari;
