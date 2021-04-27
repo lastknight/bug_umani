@@ -12,7 +12,7 @@ Questa è la semplice regola seguita dal nostro cervello, la cui mancanza compor
 - [Attentional bias](https://en.wikipedia.org/wiki/Attentional_bias): si riferisce al modo in cui la percezione di una persona è influenzata da fattori selettivi nella sua attenzione;
 - [Illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect): è la tendenza a credere che le informazioni false siano corrette dopo che ci vengono più volte ripetute;
 - [Mere exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect): è un fenomeno psicologico per cui le persone tendono a sviluppare una preferenza per qualcosa solo perché ne hanno familiarità;
-- [Context effect]: è un aspetto della psicologia cognitiva che descrive l'influenza dei fattori ambientali sulla percezione di uno stimolo;
+- [Context effect](https://en.wikipedia.org/wiki/Context_effect): è un aspetto della psicologia cognitiva che descrive l'influenza dei fattori ambientali sulla percezione di uno stimolo;
 - [Cue-dependent forgetting](https://en.wikipedia.org/wiki/Cue-dependent_forgetting): è l'incapacità di richiamare informazioni senza spunti nella nostra memoria;
 - [Mood-congruent memory bias](https://en.wikipedia.org/wiki/Cue-dependent_forgetting): è la tendenza a ricordare più facilmente eventi che hanno una congruenza con il proprio stato d'animo attuale;
 - [Frequency illusion](http://rationalwiki.org/wiki/Frequency_illusion): è un fenomeno in cui le persone, non appena imparano o notano qualcosa, iniziano a vederla ovunque;
