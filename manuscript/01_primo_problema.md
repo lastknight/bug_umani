@@ -8,8 +8,8 @@ Questa è la semplice regola seguita dal nostro cervello, la cui mancanza compor
 
 *Riferimenti:*
 
-- [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): è una scorciatoia mentale che si basa su esempi immediati che vengono in mente a una data persona quando si valuta un argomento, un concetto, un metodo o una decisione specifici;
-- [Attentional bias](https://en.wikipedia.org/wiki/Attentional_bias): si riferisce al modo in cui la percezione di una persona è influenzata da fattori selettivi nella sua attenzione;
+- [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): è una scorciatoia mentale che si basa su esempi immediati che vengono in mente a una data persona quando si valuta un argomento, un concetto, un metodo o una decisione specifici. Per questa ragione, l'individuo tende a credere che ciò che ricorda facilmente sia sicuramente importante, o almeno più rilevante di altre nozioni che ricorda con meno facilità;
+- [Attentional bias](https://en.wikipedia.org/wiki/Attentional_bias): si riferisce al modo in cui la percezione di una persona è influenzata da fattori selettivi nella sua attenzione. Questo spiega ad esempio la difficoltà dell'individuo a considerare delle alternative quando è già occupato in un flusso preciso di pensiero;
 - [Illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect): è la tendenza a credere che le informazioni false siano corrette dopo che ci vengono più volte ripetute;
 - [Mere exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect): è un fenomeno psicologico per cui le persone tendono a sviluppare una preferenza per qualcosa solo perché ne hanno familiarità;
 - [Context effect](https://en.wikipedia.org/wiki/Context_effect): è un aspetto della psicologia cognitiva che descrive l'influenza dei fattori ambientali sulla percezione di uno stimolo;
