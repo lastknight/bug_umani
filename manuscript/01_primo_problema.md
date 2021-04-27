@@ -39,7 +39,7 @@ Tendiamo a valutare quanto significativa è un'informazione sulla base del cambi
 *Riferimenti:*
 
 - [Anchoring](https://en.wikipedia.org/wiki/Anchoring):  bias per cui un individuo dipende da un'informazione iniziale (l'ancora) nel prendere decisioni o esprimere giudizi successivi;
-- [Contrast effect]: è l'aumento o la diminuzione, rispetto al normale, della percezione, della cognizione o delle prestazioni correlate, come risultato dell'esposizione successiva (immediatamente precedente) o simultanea ad uno stimolo di valore minore o maggiore nella stessa dimensione;
+- [Contrast effect](https://en.wikipedia.org/wiki/Contrast_effect): è l'aumento o la diminuzione, rispetto al normale, della percezione, della cognizione o delle prestazioni correlate, come risultato dell'esposizione successiva (immediatamente precedente) o simultanea ad uno stimolo di valore minore o maggiore nella stessa dimensione;
 - [Focusing effect](https://en.wikipedia.org/wiki/Anchoring): si verifica quando una persona dà troppa importanza a un dettaglio selezionato piuttosto che considerare il "quadro generale" - questo può portare a errori nella previsione di un risultato futuro;
 - [Framing effect](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29):  bias in cui le persone scelgono tra diverse opzioni in base al fatto che queste sono state presentate con connotazioni positive o negative;
 - [Weber-Fechner law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law): si riferisce a due ipotesi correlate nel campo della psicofisica, note come legge di Weber e legge di Fechner. Entrambe le leggi si riferiscono alla percezione umana, più precisamente nel descrivere la relazione tra la portata fisica di uno stimolo e la percezione umana dell'intensità di tale stimolo;
