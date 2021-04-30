@@ -51,10 +51,10 @@ Questo ha implicazioni enormi. Come corollario tendiamo a filtrare ed ignorare s
 
 *Riferimenti:*
 
-- [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): è la tendenza a cercare, interpretare, favorire e richiamare informazioni in modo da confermare o rafforzare le proprie convinzioni o ipotesi personali precedenti;
-- [Congruence bias](https://en.wikipedia.org/wiki/Congruence_bias): simile al *Confirmation bias*, si verifica a causa dell'eccessiva dipendenza delle persone dal testare direttamente una data ipotesi (e nel trascurare i test indiretti);
+- [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): è la tendenza a cercare, interpretare, favorire e richiamare informazioni in modo da confermare o rafforzare le proprie convinzioni o ipotesi personali precedenti. Questa euristica si verifica quando l'individuo seleziona solo le informazioni che supportano le sue opinioni, ignorando i messaggi contrari;
+- [Congruence bias](https://en.wikipedia.org/wiki/Congruence_bias): è una particolare forma del *Confirmation bias*, si verifica a causa dell'eccessiva dipendenza delle persone dal testare direttamente una data ipotesi (e nel trascurare i test indiretti). Le persone quindi tendono a evitare di trovare elementi che possano andare contro al loro pensiero iniziale;
 - [Post-purchase rationalization](https://en.wikipedia.org/wiki/Choice-supportive_bias): tendiamo a giustificare un acquisto trascurando qualsiasi difetto che vediamo in esso;
-- [Choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): è la tendenza ad attribuire retroattivamente attributi positivi ad un'opzione che è stata selezionata e/o a retrocedere le opzioni dimenticate;
+- [Choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): è la tendenza ad attribuire retroattivamente attributi positivi all'opzione scelta e/o a demolire le opzioni non selezionate;
 - [Selective perception](https://en.wikipedia.org/wiki/Selective_perception): è la tendenza a non accorgersi e a dimenticare più rapidamente gli stimoli che causano disagio emotivo e contraddicono le nostre convinzioni;
 - [Observer-expectancy effect](https://en.wikipedia.org/wiki/Observer-expectancy_effect): è una forma di reattività in cui il pregiudizio cognitivo di un ricercatore li induce a influenzare inconsciamente i partecipanti di un esperimento;
 - [Experimenter's bias](https://en.wikipedia.org/wiki/Observer-expectancy_effect):  bias introdotto da chi conduce un esperimento, per cui le aspettative sull'esito dell'esperimento possono essere sottilmente comunicate ai partecipanti;
