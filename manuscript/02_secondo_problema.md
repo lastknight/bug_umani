@@ -43,18 +43,18 @@ Quando abbiamo informazioni parziali su una cosa specifica che appartiene a un g
 
 ## Immaginiamo le cose e le persone che conosciamo o a cui siamo affezionati come migliori delle cose e delle persone che non conosciamo o a cui non siamo affezionati.
 
-Simile a quanto sopra, ma i bit compilati generalmente includono anche ipotesi sulla qualità e sul valore della cosa che stiamo guardando.
+Simile a quanto sopra, ma generalmente includono anche ipotesi sulla qualità e sul valore della cosa che stiamo guardando.
 
 *Riferimenti:*
 
-- [Halo effect](https://en.wikipedia.org/wiki/Halo_effect): è la tendenza delle impressioni positive su una persona, un'azienda, un marchio o un prodotto in un'area a influenzare positivamente la propria opinione o i propri sentimenti in altre aree;
-- [In-group bias](https://en.wikipedia.org/wiki/In-group_favoritism): è un modello per cui si favoriscono i membri interni al proprio gruppo rispetto ai membri esterni del gruppo;
-- [Out-group homogeneity bias](https://en.wikipedia.org/wiki/Out-group_homogeneity): è la percezione che si ha dei membri esterni al gruppo come più simili l'uno all'altro rispetto ai membri interni al gruppo;
-- [Cross-race effect](https://en.wikipedia.org/wiki/Cross-race_effect): è la tendenza a riconoscere più facilmente i volti che ci sono più familiari;
+- [Halo effect](https://en.wikipedia.org/wiki/Halo_effect): è l'effetto per cui le impressioni positive su una persona, un'azienda, un marchio o un prodotto in un'area determinata influenzano positivamente la propria opinione o i propri sentimenti anche in altre aree;
+- [In-group bias](https://en.wikipedia.org/wiki/In-group_favoritism): è un modello per cui si favoriscono i membri interni al proprio gruppo rispetto ai membri esterni del gruppo. La valutazione può concernere non solo gli altri ma anche l'allocamento di risorse ecc.;
+- [Out-group homogeneity bias](https://en.wikipedia.org/wiki/Out-group_homogeneity): è la percezione che si ha dei membri esterni al gruppo come più simili l'uno all'altro rispetto ai membri interni al gruppo. L'espressione che descrive al meglio il bias è "they are alike, we are diverse";
+- [Cross-race effect](https://en.wikipedia.org/wiki/Cross-race_effect): è la tendenza a riconoscere più facilmente i volti di persone che appartengono alla stessa etnia e più difficilmente quelli appartenenti a persone di altri gruppi raziali;
 - [Cheerleader effect](https://en.wikipedia.org/wiki/Cheerleader_effect): bias che induce le persone a pensare che gli individui siano più attraenti quando sono in gruppo;
-- [Well-traveled road effect](https://en.wikipedia.org/wiki/Well_travelled_road_effect): bias in cui i viaggiatori stimano il tempo necessario a percorrere un tragitto in modo diverso a seconda della loro familiarità con il percorso;
-- [Not invented here](https://en.wikipedia.org/wiki/Not_invented_here): è una posizione adottata da culture sociali, aziendali o istituzionali che evita di utilizzare o acquistare prodotti, ricerche, standard o conoscenze già esistenti a causa delle loro origini e dei loro costi esterni, come le royalties;
-- [Reactive devaluation](https://en.wikipedia.org/wiki/Reactive_devaluation): si verifica quando una proposta viene svalutata se sembra provenire da un antagonista;
+- [Well-traveled road effect](https://en.wikipedia.org/wiki/Well_travelled_road_effect): bias in cui i viaggiatori stimano il tempo necessario a percorrere un tragitto in modo diverso a seconda della loro familiarità con il percorso. Un individuo dunque tenderà a valutare come più breve una tratta già percorsa e già conosciuta;
+- [Not invented here](https://en.wikipedia.org/wiki/Not_invented_here): è la tendenza ad evitare di acquistare prodotti, ricerche o standard già esistenti perché di origini esterne. Questa è solitamente una posizione adottata da culture sociali, aziendali o istituzionali solo per il fatto di non avere origine interna;
+- [Reactive devaluation](https://en.wikipedia.org/wiki/Reactive_devaluation): si verifica quando una proposta viene svalutata se sembra provenire da un antagonista. La svalutazione può essere causata da altri bias quali l'avversione al rischio, la polarizzazione o il naïve realism;
 - [Positivity effect](https://en.wikipedia.org/wiki/Positivity_effect): è la capacità di analizzare in modo costruttivo una situazione in cui non si ottengono i risultati desiderati, ma si ottengono comunque feedback positivi che aiutano la nostra progressione futura.
 
 ## Semplifichiamo le probabilità e i numeri per renderli più facili da pensare.
