@@ -28,7 +28,7 @@ In realtà, la maggior parte di questa fiducia può essere classificata come ecc
 - [Effort justification](https://en.wikipedia.org/wiki/Effort\_justification): è la tendenza di una persona ad attribuire un valore ad un risultato, che ha dovuto sforzarsi di raggiungere, maggiore del valore oggettivo del risultato. Esiste dunque una dissonanza tra la quantità di risorse impiegate per portare a termine qualcosa e la ricompensa soggettiva che l'individuo si riserva per esserci riuscito;
 - [Risk compensation](https://en.wikipedia.org/wiki/Risk\_compensation): è una teoria che suggerisce che le persone adattano il loro comportamento in risposta al livello di rischio percepito, diventando più attente dove percepiscono un rischio maggiore e meno attente se si sentono più protette;
 - [Peltzman effect](https://en.wikipedia.org/wiki/Risk\_compensation): è una teoria che afferma che le persone sono più propense a comportarsi in modo rischioso quando sono state imposte delle misure di sicurezza;
-- [Armchair fallacy](http://www.elischiff.com/blog/2015/2/4/criticism-and-the-armchair-fallacy): falsa distinzione tra teoria e pratica come forme di argomentazione. Sono ad esempio, coloro che sostengono che le azioni valgono più delle parole.
+- [Armchair fallacy](http://www.elischiff.com/blog/2015/2/4/criticism-and-the-armchair-fallacy): falsa distinzione tra teoria e pratica come forme di argomentazione. Sono ad esempio, coloro che sostengono che le azioni valgono più delle parole. La "armchair critic" è la critica di chi non ha alcuna esperienza pratica nell'attività o nel lavoro di altri che sta giudicando.
 
 ## Per rimanere concentrati, privilegiamo la cosa immediata e relazionabile davanti a noi rispetto a quella ritardata e lontana.
 
