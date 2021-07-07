@@ -66,8 +66,8 @@ Se dobbiamo scegliere, tendiamo a scegliere l'opzione che viene percepita come l
 
 *Riferimenti*:
 
-- [System justification]: teoria che propone che le persone abbiano diversi bisogni di fondo, che variano da individuo a individuo, che possono essere soddisfatti dalla difesa e dalla giustificazione dello status quo, anche quando il sistema può essere svantaggioso per alcune persone;
-- [Reactance]: reazione spiacevole a offerte, persone, regole o regolamenti che minacciano o eliminano specifiche libertà comportamentali. Si verifica quando una persona sente che qualcuno o qualcosa gli sta togliendo (o limitando) le sue possibilità di scelta;
+- [System justification](https://en.wikipedia.org/wiki/System_justification): teoria che propone che le persone abbiano diversi bisogni di fondo, che variano da individuo a individuo e che possono essere soddisfatti dalla difesa e dalla giustificazione dello status quo, anche quando il sistema può essere svantaggioso per alcune persone. Per esempio, il bisogno di ordine e stabilità insieme alla resistenza al cambiamento, possono motivare il fatto che le persone vedano lo status quo come legittimo e desiderabile;
+- [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology): reazione spiacevole a persone, regole o regolamenti che minacciano o eliminano specifiche libertà comportamentali. Si verifica quando una persona sente che qualcuno o qualcosa gli sta togliendo (o limitando) le sue possibilità di scelta;
 - [Reverse psychology]: è una tecnica che comporta l'affermazione di un credo o di un comportamento opposto a quello desiderato, con l'aspettativa che questo approccio incoraggi il soggetto della persuasione a fare ciò che effettivamente si desidera;
 - [Decoy effect]: in marketing, è il fenomeno per cui i consumatori tenderanno ad avere un cambiamento specifico di preferenza tra due opzioni quando si presenteranno anche con una terza opzione che è dominata asimmetricamente;
 - [Social comparison bias]: è l'avere sentimenti di antipatia e di competitività con qualcuno che è visto fisicamente, o mentalmente, migliore di noi;
